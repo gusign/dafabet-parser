@@ -1,4 +1,4 @@
-// Code Manager
+
 contract Manager { function performTasks() public pure{
 
 }
